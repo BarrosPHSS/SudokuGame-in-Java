@@ -127,4 +127,4 @@ git push
 
 ---
 
-✍️ Autor: *Seu Nome Aqui*
+✍️ Autor: *Pedro Henrique Barros dos Santos de Souza*
