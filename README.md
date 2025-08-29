@@ -90,41 +90,5 @@ java Sudoku "0,0;8;true" "1,2;4;false"
 
 ---
 
-## 📦 Como adicionar este README ao seu projeto e subir para o GitHub
-
-Escolha o cenário que se aplica ao seu projeto.
-
-### A) Projeto local **já versionado** em Git (com remoto configurado)
-```bash
-cd /caminho/do/seu/projeto
-# salve este arquivo como README.md na raiz
-git add README.md
-git commit -m "docs: adiciona README"
-git push
-```
-
-### B) Projeto local **sem Git** inicializado (ainda não tem repositório no GitHub)
-```bash
-cd /caminho/do/seu/projeto
-# salve este arquivo como README.md na raiz
-git init
-git add .
-git commit -m "feat: Sudoku em Java + README"
-git branch -M main
-git remote add origin https://github.com/<seu-usuario>/<seu-repo>.git
-git push -u origin main
-```
-
-### C) Repositório **já existe no GitHub** (sem README) — clonar e adicionar
-```bash
-git clone https://github.com/<seu-usuario>/<seu-repo>.git
-cd <seu-repo>
-# copie/cole o README.md para a raiz do repositório
-git add README.md
-git commit -m "docs: adiciona README"
-git push
-```
-
----
 
 ✍️ Autor: *Pedro Henrique Barros dos Santos de Souza*
